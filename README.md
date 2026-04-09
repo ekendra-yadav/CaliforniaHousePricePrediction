@@ -21,5 +21,3 @@ longitude, latitude, housing_median_age, total_rooms, total_bed rooms, populatio
  - Mean Square Error: 0.3889
  - Mean Absolute Error: 0.4444
  - Mean Absolute Precentage Error: 2.4094
- ### Conclusion 
- In addition to Simple Linear Regression, other options for modeling include Ridge Regression, Lasso Regression, OLS Regression, and RandomForestRegressor. If you wish to explore these alternate models further, feel free to do so. Thank you.
